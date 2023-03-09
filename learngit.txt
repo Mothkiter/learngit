@@ -1,3 +1,4 @@
 I want to learn git
 I like python
 I like it because it is simple
+I like it because it is useful
