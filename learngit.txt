@@ -1,1 +1,2 @@
 I want to learn git
+I like python
